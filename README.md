@@ -1,6 +1,8 @@
-# Modular Terrain Model Maker
+# Modular Terrain Model Maker  (Deprecated)
 
-This repo contains resources for making modular terrain model for areas within the Boston Metro3D area.
+This repo has migrated to http://github.com/cityschema/cityscema-citytiler
 
-For more information see http://www.cityschema.org/terrain .
+The new repo actually works!
+
+
 
